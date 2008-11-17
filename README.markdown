@@ -36,6 +36,7 @@ following two files located inside the .wdgt:
  * style.css
 
 ## Areas for improvement
- * The icon isn’t so hot. I’ll try to upload the .psd file for others to play
-with.
+ * The icon isn’t so hot.
  * My JavaScript is almost certainly inefficient or wrong in some way.
+ * The blue color of the month bar can be somewhat difficult to see because of
+the purple.
