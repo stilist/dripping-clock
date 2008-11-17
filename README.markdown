@@ -1,7 +1,7 @@
-## What is this?
+# Dripping Clock
 
-This is a simple Dashboard widget that displays the current date and time in a
-somewhat abstract manner.
+Dripping Clock is a simple Dashboard widget that displays the current date and
+time in a somewhat abstract manner.
 
 ## How do I install it?
 
