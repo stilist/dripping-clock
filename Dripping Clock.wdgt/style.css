@@ -1,0 +1,23 @@
+body {
+ margin: 0;
+ padding: 0;
+}
+
+#clock {
+ height: 800px;
+ width: 18px;
+}
+
+#clock div {
+ float: left;
+ margin-right: 1px;
+ min-height: 1px;
+ width: 2px;
+}
+
+#seconds { background-color: #900; }
+#minutes { background-color: #960; }
+#hours { background-color: #990; }
+#days { background-color: #090; }
+#months { background-color: #00a; }
+#daysInYear { background-color: #609; }
